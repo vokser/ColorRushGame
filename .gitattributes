@@ -2,3 +2,5 @@
 *.html text
 *.css text
 *.js text
+*.cs linguist-language=C#
+*.txt linguist-vendored
